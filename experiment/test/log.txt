@@ -1,0 +1,93 @@
+[INFO] Building LMBN_n model... Time used: 0 m 0 s
+[INFO] Building LMBN_n model... Time used: 0 m 0 s
+[INFO] Building LMBN_n model... Time used: 0 m 0 s
+[INFO] Successfully loaded pretrained weights from "pretrained\lmbn_n_market.pth" Time used: 0 m 2 s
+[INFO] Model parameters: 9348768 flops: 2430837088 Time used: 0 m 3 s
+[INFO] GPU: NVIDIA GeForce GTX 1080 Time used: 0 m 3 s
+[INFO] Starting from epoch 1 Time used: 0 m 3 s
+
+[INFO] Test: Time used: 0 m 3 s
+[INFO] Building LMBN_n model... Time used: 0 m 0 s
+[INFO] Successfully loaded pretrained weights from "pretrained\lmbn_n_market.pth" Time used: 0 m 2 s
+[INFO] Model parameters: 9348768 flops: 2430837088 Time used: 0 m 3 s
+[INFO] GPU: NVIDIA GeForce GTX 1080 Time used: 0 m 3 s
+[INFO] Starting from epoch 1 Time used: 0 m 3 s
+
+[INFO] Test: Time used: 0 m 3 s
+[INFO] Building LMBN_n model... Time used: 0 m 0 s
+[INFO] Successfully loaded pretrained weights from "pretrained\lmbn_n_market.pth" Time used: 0 m 2 s
+[INFO] Model parameters: 9348768 flops: 2430837088 Time used: 0 m 4 s
+[INFO] GPU: NVIDIA GeForce GTX 1080 Time used: 0 m 4 s
+[INFO] Starting from epoch 1 Time used: 0 m 4 s
+
+[INFO] Test: Time used: 0 m 4 s
+[INFO] mAP: 0.9154 rank1: 0.9653 rank3: 0.9849 rank5: 0.9884 rank10: 0.9929 (Best: 0.9154 @epoch 0.0) Time used: 5 m 8 s
+[INFO] Building LMBN_n model... Time used: 0 m 1 s
+[INFO] Successfully loaded pretrained weights from "pretrained\lmbn_n_duke.pth" Time used: 0 m 3 s
+[INFO] Model parameters: 9173152 flops: 2430661472 Time used: 0 m 4 s
+[INFO] GPU: NVIDIA GeForce GTX 1080 Time used: 0 m 4 s
+[INFO] Starting from epoch 1 Time used: 0 m 4 s
+
+[INFO] Test: Time used: 0 m 4 s
+[INFO] mAP: 0.8372 rank1: 0.9210 rank3: 0.9479 rank5: 0.9618 rank10: 0.9744 (Best: 0.8372 @epoch 0.0) Time used: 4 m 46 s
+[INFO] Building LMBN_n model... Time used: 0 m 1 s
+[INFO] Successfully loaded pretrained weights from "pretrained\lmbn_n_duke.pth" Time used: 0 m 2 s
+[INFO] Model parameters: 9173152 flops: 2430661472 Time used: 0 m 4 s
+[INFO] GPU: NVIDIA GeForce GTX 1080 Time used: 0 m 4 s
+[INFO] Starting from epoch 1 Time used: 0 m 4 s
+
+[INFO] Test: Time used: 0 m 4 s
+[INFO] mAP: 0.8372 rank1: 0.9210 rank3: 0.9479 rank5: 0.9618 rank10: 0.9744 (Best: 0.8372 @epoch 0.0) Time used: 4 m 40 s
+[INFO] Building LMBN_n model... Time used: 0 m 0 s
+[INFO] Successfully loaded pretrained weights from "pretrained/lmbn_n_market.pth" Time used: 0 m 12 s
+[INFO] Model parameters: 9348768 flops: 2430837088 Time used: 0 m 21 s
+[INFO] GPU: NVIDIA GeForce GTX 1080 Time used: 0 m 21 s
+[INFO] Starting from epoch 1 Time used: 0 m 21 s
+
+[INFO] Test: Time used: 0 m 21 s
+[INFO] mAP: 0.9154 rank1: 0.9653 rank3: 0.9792 rank5: 0.9849 rank10: 0.9872 (Best: 0.9884 @epoch 0.9890142517814727) Time used: 5 m 27 s
+[INFO] Building LMBN_n model... Time used: 0 m 0 s
+[INFO] Successfully loaded pretrained weights from "pretrained/lmbn_n_market.pth" Time used: 0 m 2 s
+[INFO] Model parameters: 9348768 flops: 2430837088 Time used: 0 m 4 s
+[INFO] GPU: NVIDIA GeForce GTX 1080 Time used: 0 m 4 s
+[INFO] Starting from epoch 1 Time used: 0 m 4 s
+
+[INFO] Test: Time used: 0 m 4 s
+[INFO] Building LMBN_n model... Time used: 0 m 0 s
+[INFO] Successfully loaded pretrained weights from "pretrained/lmbn_n_market.pth" Time used: 0 m 2 s
+[INFO] Model parameters: 9348768 flops: 2430837088 Time used: 0 m 4 s
+[INFO] GPU: NVIDIA GeForce GTX 1080 Time used: 0 m 4 s
+[INFO] Starting from epoch 1 Time used: 0 m 4 s
+
+[INFO] Test: Time used: 0 m 4 s
+[INFO] Building LMBN_n model... Time used: 0 m 0 s
+[INFO] Successfully loaded pretrained weights from "pretrained/lmbn_n_market.pth" Time used: 0 m 2 s
+[INFO] Model parameters: 9348768 flops: 2430837088 Time used: 0 m 4 s
+[INFO] GPU: NVIDIA GeForce GTX 1080 Time used: 0 m 4 s
+[INFO] Starting from epoch 1 Time used: 0 m 4 s
+
+[INFO] Test: Time used: 0 m 4 s
+[INFO] Building LMBN_n model... Time used: 0 m 0 s
+[INFO] Successfully loaded pretrained weights from "pretrained/lmbn_n_market.pth" Time used: 0 m 2 s
+[INFO] Model parameters: 9348768 flops: 2430837088 Time used: 0 m 4 s
+[INFO] GPU: NVIDIA GeForce GTX 1080 Time used: 0 m 4 s
+[INFO] Starting from epoch 1 Time used: 0 m 4 s
+
+[INFO] Test: Time used: 0 m 4 s
+[INFO] mAP: 0.9154 rank1: 0.9653 rank3: 0.9792 rank5: 0.9849 rank10: 0.9872 (Best: 0.9884 @epoch 0.9890142517814727) Time used: 5 m 5 s
+[INFO] Building LMBN_n model... Time used: 0 m 0 s
+[INFO] Successfully loaded pretrained weights from "pretrained/lmbn_n_market.pth" Time used: 0 m 2 s
+[INFO] Model parameters: 9348768 flops: 2430837088 Time used: 0 m 4 s
+[INFO] GPU: NVIDIA GeForce GTX 1080 Time used: 0 m 4 s
+[INFO] Starting from epoch 1 Time used: 0 m 4 s
+
+[INFO] Test: Time used: 0 m 4 s
+[INFO] mAP: 0.9154 rank1: 0.9653 rank2:0.9792 rank3: 0.9849 rank4: 0.9872 rank5: 0.9884 rank6: 0.9890 rank7: 0.9899 rank8: 0.9902 rank9: 0.9917 rank10: 0.9929 (Best: 0.9154 @epoch 0.0) Time used: 5 m 4 s
+[INFO] Building LMBN_n model... Time used: 0 m 1 s
+[INFO] Successfully loaded pretrained weights from "pretrained/lmbn_n_duke.pth" Time used: 0 m 19 s
+[INFO] Model parameters: 9173152 flops: 2430661472 Time used: 0 m 28 s
+[INFO] GPU: NVIDIA GeForce GTX 1080 Time used: 0 m 28 s
+[INFO] Starting from epoch 1 Time used: 0 m 28 s
+
+[INFO] Test: Time used: 0 m 28 s
+[INFO] mAP: 0.8372 rank1: 0.9210 rank2:0.9408 rank3: 0.9479 rank4: 0.9569 rank5: 0.9618 rank6: 0.9668 rank7: 0.9695 rank8: 0.9704 rank9: 0.9722 rank10: 0.9744 (Best: 0.8372 @epoch 0.0) Time used: 5 m 14 s
